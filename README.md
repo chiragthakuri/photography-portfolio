@@ -29,7 +29,7 @@ photography-portfolio/ ├── public/ ├── src/ │ ├── components
 ## 🚧 Branch Strategy
 
 - `dev` – development and testing
-- `main` – production-ready code
+- `prod` – production-ready code
 
 Changes are merged from `dev` to `main` via pull requests. Deployment to GitHub Pages happens automatically when changes are pushed to the `main` branch.
 
