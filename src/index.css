@@ -1,0 +1,17 @@
+/* index.css */
+.hero-section {
+  background: url('your-image-url.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 80px 0;
+  color: white;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+}
+
+/* Add any other styles you need here */

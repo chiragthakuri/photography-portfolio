@@ -1,0 +1,44 @@
+/* Custom styles for your photography portfolio */
+
+/* Hero section */
+.hero-section {
+    background: url('your-hero-image.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 80px 0;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+  }
+  
+  .hero-section p {
+    font-size: 1.5rem;
+  }
+  
+  /* Portfolio section */
+  .portfolio-section .card {
+    margin-bottom: 30px;
+  }
+  
+  /* About section */
+  .about-section {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+  }
+  
+  .about-section p {
+    font-size: 1.2rem;
+  }
+  
+  /* Contact section */
+  .contact-section {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+  }
+  
+  .contact-section form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
